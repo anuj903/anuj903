@@ -12,7 +12,7 @@
 
 ---
 
-I design and ship **end-to-end data infrastructure** — from IoT edge devices to real-time streaming layers to analytical dashboards. My focus is industrial and operational data: energy systems, manufacturing intelligence, and AI-augmented decision pipelines.
+I design and ship **end-to-end data infrastructure**, from IoT edge devices to real-time streaming layers to analytical dashboards. My focus is industrial and operational data: energy systems, manufacturing intelligence, and AI-augmented decision pipelines.
 
 Currently deepening expertise in **analytics engineering** (dbt, metrics layer) and **LLM-integrated automation** for enterprise use cases.
 
@@ -36,7 +36,7 @@ Currently deepening expertise in **analytics engineering** (dbt, metrics layer) 
 ## Featured Projects
 
 ### ⚡ Real-time Energy Analytics Platform
-End-to-end monitoring system for industrial energy consumption — live metrics, forecasting, and anomaly detection feeding directly into operational decisions.
+End-to-end monitoring system for industrial energy consumption, live metrics, forecasting, and anomaly detection feeding directly into operational decisions.
 `Python` `Kafka` `SQL Server` `Power BI` `ML`
 
 ### 🏭 Industrial Digital Twin
@@ -48,7 +48,7 @@ Full pipeline from edge sensor data through streaming to analytical layer: MQTT 
 `MQTT` `Kafka` `SQL Server` `Power BI`
 
 ### 🤖 AI Vendor Risk Evaluator
-LLM-powered automation system for evaluating vendor risk — structured reasoning over unstructured documents with decision outputs.
+LLM-powered automation system for evaluating vendor risk - structured reasoning over unstructured documents with decision outputs.
 `Python` `LLMs` `FastAPI` `Automation`
 
 ---
