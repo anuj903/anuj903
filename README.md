@@ -1,55 +1,77 @@
-Hi there 👋
+<div align="center">
 
-I’m Anuj - a Data Engineer focused on building real-time data pipelines, analytics systems, and industrial data solutions.
+# Anuj · Data Engineer
 
----
+**Building data systems that move raw signals → insights → decisions**
 
-## 🚀 What I Do
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://your-linkedin-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-url)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-- Design and build end-to-end **data pipelines (ETL/ELT)**
-- Develop **real-time streaming systems (Kafka, MQTT)**
-- Create **Power BI dashboards for operational analytics**
-- Work on **energy analytics, manufacturing data, and optimization use cases**
-- Build **ML-integrated analytics (forecasting, anomaly detection)**
-- Explore **AI + LLM-based solutions for business problems**
+</div>
 
 ---
 
-## 🧠 Core Skills
+I design and ship **end-to-end data infrastructure** — from IoT edge devices to real-time streaming layers to analytical dashboards. My focus is industrial and operational data: energy systems, manufacturing intelligence, and AI-augmented decision pipelines.
 
-- **Data Engineering:** Python, SQL, SSIS, ETL/ELT
-- **Streaming:** Kafka, MQTT
-- **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB
-- **Visualization:** Power BI (DAX, Data Modeling)
-- **Backend:** Flask, FastAPI
-- **Cloud/Tools:** AWS (S3), Docker, Git
+Currently deepening expertise in **analytics engineering** (dbt, metrics layer) and **LLM-integrated automation** for enterprise use cases.
 
 ---
 
-## ⚙️ What I’m Working On
+## Stack
 
-- Real-time **energy monitoring & optimization systems**
-- **Analytics engineering concepts** (dbt, data modeling, metrics layer)
-- **Databricks + PySpark pipelines**
-- AI-driven use cases (LLMs, automation, decision systems)
-
----
-
-## 📊 Featured Work
-
-- 🔹 Real-time Energy Analytics Platform (monitoring + forecasting + anomaly detection)
-- 🔹 Digital Twin for Industrial Systems (real-time + ML insights)
-- 🔹 IoT Streaming Pipeline (MQTT → Kafka → SQL → Power BI)
-- 🔹 AI-based Vendor Risk Evaluation (LLM + automation)
+| Layer | Technologies |
+|---|---|
+| **Ingestion & Streaming** | Kafka · MQTT · REST APIs |
+| **Transformation** | Python · SQL · SSIS · dbt (learning) |
+| **Databases** | SQL Server · PostgreSQL · MySQL · MongoDB |
+| **Processing** | PySpark · Databricks (active) |
+| **Visualization** | Power BI · DAX · Data Modeling |
+| **Backend / APIs** | FastAPI · Flask |
+| **Cloud & Infra** | AWS S3 · Docker · Git |
+| **AI / ML** | Forecasting · Anomaly Detection · LLMs |
 
 ---
 
-## 🎯 Focus
+## Featured Projects
 
-Building **scalable data systems** that move from raw data → insights → decisions.
+### ⚡ Real-time Energy Analytics Platform
+End-to-end monitoring system for industrial energy consumption — live metrics, forecasting, and anomaly detection feeding directly into operational decisions.
+`Python` `Kafka` `SQL Server` `Power BI` `ML`
+
+### 🏭 Industrial Digital Twin
+Real-time mirror of physical manufacturing systems with ML-driven insights for predictive maintenance and throughput optimisation.
+`MQTT` `Python` `FastAPI` `PostgreSQL`
+
+### 📡 IoT Streaming Pipeline
+Full pipeline from edge sensor data through streaming to analytical layer: MQTT → Kafka → SQL → Power BI dashboards.
+`MQTT` `Kafka` `SQL Server` `Power BI`
+
+### 🤖 AI Vendor Risk Evaluator
+LLM-powered automation system for evaluating vendor risk — structured reasoning over unstructured documents with decision outputs.
+`Python` `LLMs` `FastAPI` `Automation`
 
 ---
 
-## 📫 Connect
+## Currently Building
 
-- LinkedIn: <your-link>
+- 🔄 **Databricks + PySpark** pipelines for large-scale batch processing
+- 📐 **Analytics engineering** patterns: dbt, data contracts, metrics layer
+- 🧠 **LLM-integrated decision systems** for operational automation
+- ⚙️ **Energy optimisation** — moving from monitoring to active control
+
+---
+
+## Principles
+
+> Clean architecture over clever hacks · Reliable pipelines over impressive demos · Systems that operators actually use
+
+---
+
+<div align="center">
+
+**Open to:** Data Engineering roles · Consulting on industrial analytics · Collaborations on open-source data tooling
+
+*Replace badge URLs and project links before publishing*
+
+</div>
