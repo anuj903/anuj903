@@ -58,7 +58,7 @@ LLM-powered automation system for evaluating vendor risk - structured reasoning 
 - 🔄 **Databricks + PySpark** pipelines for large-scale batch processing
 - 📐 **Analytics engineering** patterns: dbt, data contracts, metrics layer
 - 🧠 **LLM-integrated decision systems** for operational automation
-- ⚙️ **Energy optimisation** — moving from monitoring to active control
+- ⚙️ **Energy optimisation**  moving from monitoring to active control
 
 ---
 
