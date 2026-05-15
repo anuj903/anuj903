@@ -5,7 +5,6 @@
 **Building data systems that move raw signals → insights → decisions**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/anuj-gaikwad-32a1b5209)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-url)
 [![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anujgaikwad392@email.com)
 
 </div>
