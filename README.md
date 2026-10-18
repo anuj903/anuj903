@@ -29,7 +29,7 @@ I'm currently developing a near-real-time hydrometry data platform while expandi
 | **Data Modeling** | Star Schema, Dimensional Modeling, SCD Type 2, Medallion Architecture |
 | **Business Intelligence** | Power BI, DAX, Power Query, Semantic Data Modeling |
 | **Backend & Visualization** | FastAPI, Flask, Streamlit, Plotly Dash |
-| **Cloud & Infrastructure** | Google Cloud Platform (learning), BigQuery, Dataform (learning), Docker, Git |
+| **Cloud & Infrastructure** | Google Cloud Platform (learning), BigQuery, Dataform, Docker, Git |
 | **Analytics & AI** | Forecasting, Anomaly Detection, Machine Learning, LangChain, LLM Applications, n8n |
 
 ---
@@ -48,7 +48,7 @@ Developed an industrial equipment monitoring solution combining operational data
 
 `Python` `PostgreSQL` `TimescaleDB` `Industrial IoT` `Machine Learning`
 
-### 🌊 Flood Monitoring & Hydrology Data Platform — In Progress
+### 🌊 Flood Monitoring & Hydrology Data Platform - In Progress
 
 Building a near-real-time data platform using France's Hub’Eau hydrometry API. A Python producer periodically retrieves water observations and publishes events to Kafka. A consumer persists raw events in the Bronze layer, while Spark Structured Streaming validates and transforms the data into Silver and Gold analytical layers. The platform uses TimescaleDB/PostgreSQL for storage and FastAPI with Plotly Dash for data access and visualization.
 
